@@ -1,0 +1,18 @@
+{
+    "id": 100,
+    "category": {
+      "id": 100,
+      "name": "category_chote"
+    },
+    "name": "name_chotu",
+    "photoUrls": [
+      "C:\\Projects\\PetStore2\\DogPic\\266770.jpg"
+    ],
+    "tags": [
+      {
+        "id": 100,
+        "name": "tag_chote"
+      }
+    ],
+    "status": "available"
+  }
