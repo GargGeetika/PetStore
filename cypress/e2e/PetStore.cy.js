@@ -52,7 +52,7 @@ describe('CRUD tests for Petstore: Pet, Store Orders, and User Operations', () =
 
     it('Create a new user and verify', function () {
         userOperations.createUser(this.usrOps); // Call function to POST user data and validate
-        cy.log("dumb and dumber part 2")
+        cy.log("dumb and dumber part 3")
     });
 
     it('Update a user\'s details and verify changes', function () {
